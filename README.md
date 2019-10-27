@@ -1,0 +1,1 @@
+calculation of taxes, several thresholds. Using fstream and iostream .lib
